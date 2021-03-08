@@ -2,7 +2,7 @@
   <a href="https://goodfirstissue.dev" target="_blank">
     <img src="https://goodfirstissue.dev/images/gfi-logo-dark.svg">
   </a>
-</p>
+</p> 
 <hr>
 
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/deepsourcelabs/good-first-issue/?ref=repository-badge)
